@@ -1,0 +1,9 @@
+C:\Users\bagat\source\repos\ndpodev\ndpodev\bin\Debug\ndpodev.exe.config
+C:\Users\bagat\source\repos\ndpodev\ndpodev\bin\Debug\ndpodev.exe
+C:\Users\bagat\source\repos\ndpodev\ndpodev\bin\Debug\ndpodev.pdb
+C:\Users\bagat\source\repos\ndpodev\ndpodev\obj\Debug\ndpodev.csprojAssemblyReference.cache
+C:\Users\bagat\source\repos\ndpodev\ndpodev\obj\Debug\ndpodev.Form1.resources
+C:\Users\bagat\source\repos\ndpodev\ndpodev\obj\Debug\ndpodev.Properties.Resources.resources
+C:\Users\bagat\source\repos\ndpodev\ndpodev\obj\Debug\ndpodev.csproj.GenerateResource.cache
+C:\Users\bagat\source\repos\ndpodev\ndpodev\obj\Debug\ndpodev.exe
+C:\Users\bagat\source\repos\ndpodev\ndpodev\obj\Debug\ndpodev.pdb
